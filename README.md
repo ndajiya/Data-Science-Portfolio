@@ -1,4 +1,11 @@
 # Data-Science-Portfolio
+
+## Project 0: Economic Machine  
+      Overview:
+      Notes: Reinforcement Learning to predict future prices.
+             Genetic algorithm for training behavior.
+
+
 ## Project 1: K-Means Clustering Algorithm  
       Overview:
       Notes:
