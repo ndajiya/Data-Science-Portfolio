@@ -5,7 +5,7 @@
       Notes: Reinforcement Learning to predict future prices.
              Genetic algorithm for training behavior.
 
-
+HF Crypto Bot
 ## Project 1: K-Means Clustering Algorithm  
       Overview:
       Notes:
